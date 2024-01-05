@@ -1,0 +1,18 @@
+# dirs
+.vscode/
+test/
+backups/
+unit_tests/
+
+# C
+*.dSYM
+*.o
+*.d
+*.a
+server
+client
+!srcs/server
+!srcs/client
+
+# misc
+*notes*
